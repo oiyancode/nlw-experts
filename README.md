@@ -1,2 +1,9 @@
 # nlw-experts
-evento que entrei e fiz um site/quiz
+evento que fiz um site/quiz
+
+## Tecnologias Utilizadas
+
+- HTML
+- CSS
+- JavaScript
+- Github
